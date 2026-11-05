@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="PaymentBatchProcessingService.App/PaymentBatchProcessingService.App.csproj" />
+  <Project Path="PaymentBatchProcessingService.Domain/PaymentBatchProcessingService.Domain.csproj" />
+  <Project Path="PaymentBatchProcessingService.Infrastructure/PaymentBatchProcessingService.Infrastructure.csproj" />
+  <Project Path="PaymentBatchProcessingService.IntegrationTests/PaymentBatchProcessingService.IntegrationTests.csproj" />
+  <Project Path="PaymentBatchProcessingService.UnitTests/PaymentBatchProcessingService.UnitTests.csproj" />
+  <Project Path="PaymentBatchProcessingService/PaymentBatchProcessingService.csproj" />
+</Solution>

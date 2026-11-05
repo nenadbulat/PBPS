@@ -1,0 +1,33 @@
+Build started at 9:56 PM...
+Restored C:\CodePBPS\PaymentBatchProcessingService\PaymentBatchProcessingService.Domain\PaymentBatchProcessingService.Domain.csproj (in 12 ms).
+Restored C:\CodePBPS\PaymentBatchProcessingService\PaymentBatchProcessingService.App\PaymentBatchProcessingService.App.csproj (in 22 ms).
+Restored C:\CodePBPS\PaymentBatchProcessingService\PaymentBatchProcessingService.UnitTests\PaymentBatchProcessingService.UnitTests.csproj (in 74 ms).
+Restored C:\CodePBPS\PaymentBatchProcessingService\PaymentBatchProcessingService.IntegrationTests\PaymentBatchProcessingService.IntegrationTests.csproj (in 74 ms).
+1>------ Build started: Project: PaymentBatchProcessingService.Domain, Configuration: Release Any CPU ------
+Restored C:\CodePBPS\PaymentBatchProcessingService\PaymentBatchProcessingService.Infrastructure\PaymentBatchProcessingService.Infrastructure.csproj (in 82 ms).
+Restored C:\CodePBPS\PaymentBatchProcessingService\PaymentBatchProcessingService\PaymentBatchProcessingService.csproj (in 82 ms).
+1>  PaymentBatchProcessingService.Domain -> C:\CodePBPS\PaymentBatchProcessingService\PaymentBatchProcessingService.Domain\bin\Release\net10.0\PaymentBatchProcessingService.Domain.dll
+2>------ Build started: Project: PaymentBatchProcessingService.App, Configuration: Release Any CPU ------
+2>  PaymentBatchProcessingService.App -> C:\CodePBPS\PaymentBatchProcessingService\PaymentBatchProcessingService.App\bin\Release\net10.0\PaymentBatchProcessingService.App.dll
+3>------ Build started: Project: PaymentBatchProcessingService.Infrastructure, Configuration: Release Any CPU ------
+3>  PaymentBatchProcessingService.Infrastructure -> C:\CodePBPS\PaymentBatchProcessingService\PaymentBatchProcessingService.Infrastructure\bin\Release\net10.0\PaymentBatchProcessingService.Infrastructure.dll
+4>------ Build started: Project: PaymentBatchProcessingService, Configuration: Release Any CPU ------
+4>  PaymentBatchProcessingService -> C:\CodePBPS\PaymentBatchProcessingService\PaymentBatchProcessingService\bin\Release\net10.0\PaymentBatchProcessingService.dll
+5>------ Build started: Project: PaymentBatchProcessingService.IntegrationTests, Configuration: Release Any CPU ------
+6>------ Build started: Project: PaymentBatchProcessingService.UnitTests, Configuration: Release Any CPU ------
+5>  PaymentBatchProcessingService.IntegrationTests -> C:\CodePBPS\PaymentBatchProcessingService\PaymentBatchProcessingService.IntegrationTests\bin\Release\net10.0\PaymentBatchProcessingService.IntegrationTests.dll
+6>  PaymentBatchProcessingService.UnitTests -> C:\CodePBPS\PaymentBatchProcessingService\PaymentBatchProcessingService.UnitTests\bin\Release\net10.0\PaymentBatchProcessingService.UnitTests.dll
+========== Build: 6 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 9:56 PM and took 06.917 seconds ==========
+
+
+========== Starting test run ==========
+NUnit Adapter 5.0.0.0: Test execution started
+Running selected tests in C:\CodePBPS\PaymentBatchProcessingService\PaymentBatchProcessingService.IntegrationTests\bin\Release\net10.0\PaymentBatchProcessingService.IntegrationTests.dll
+   NUnit3TestExecutor discovered 9 of 9 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 5.0.0.0: Test execution complete
+NUnit Adapter 5.0.0.0: Test execution started
+Running selected tests in C:\CodePBPS\PaymentBatchProcessingService\PaymentBatchProcessingService.UnitTests\bin\Release\net10.0\PaymentBatchProcessingService.UnitTests.dll
+   NUnit3TestExecutor discovered 215 of 215 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 5.0.0.0: Test execution complete
+========== Test run finished: 224 Tests (224 Passed, 0 Failed, 0 Skipped) run in 1.8 sec ==========
